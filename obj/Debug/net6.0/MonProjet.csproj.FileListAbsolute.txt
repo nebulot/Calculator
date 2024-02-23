@@ -1,0 +1,15 @@
+C:\dev\workspace\CSHARP\MonProjet\bin\Debug\net6.0\MonProjet.exe
+C:\dev\workspace\CSHARP\MonProjet\bin\Debug\net6.0\MonProjet.deps.json
+C:\dev\workspace\CSHARP\MonProjet\bin\Debug\net6.0\MonProjet.runtimeconfig.json
+C:\dev\workspace\CSHARP\MonProjet\bin\Debug\net6.0\MonProjet.dll
+C:\dev\workspace\CSHARP\MonProjet\bin\Debug\net6.0\MonProjet.pdb
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.csproj.AssemblyReference.cache
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.AssemblyInfoInputs.cache
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.AssemblyInfo.cs
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.csproj.CoreCompileInputs.cache
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.dll
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\refint\MonProjet.dll
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.pdb
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\MonProjet.genruntimeconfig.cache
+C:\dev\workspace\CSHARP\MonProjet\obj\Debug\net6.0\ref\MonProjet.dll
